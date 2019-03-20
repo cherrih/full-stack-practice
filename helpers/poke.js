@@ -6,9 +6,6 @@ let getPokemon = (searchTerm) => {
   // from the pokemon api
   // https://pokeapi.co/docs/v2.html#pokemon
 
-  // The options object has been provided to help you out, 
-  // but you'll have to fill in the URL
-  
 }
 
 module.exports.getPokemon = getPokemon;
